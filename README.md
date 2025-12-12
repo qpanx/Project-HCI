@@ -1,3 +1,4 @@
+🕹️ Project-HCI
 A 2D Pixel-Art Action Platformer Built With Unity
 
 Project-HCI is a fast-paced 2D action platformer featuring pixel-art visuals, enemy combat, collectible items, and smooth character movement. The game focuses on fluid gameplay, atmospheric environments, and responsive combat mechanics.
