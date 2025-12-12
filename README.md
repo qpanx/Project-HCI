@@ -102,3 +102,20 @@ Power-ups
 Dialogue & quests
 
 Sound effects & music
+
+
+
+
+<img width="1007" height="544" alt="image" src="https://github.com/user-attachments/assets/2d712154-2077-4ed7-9879-78a9c1dda9b4" />
+
+<img width="1017" height="549" alt="image" src="https://github.com/user-attachments/assets/969bff9d-5fdb-4735-8ae4-e0b13755c661" />
+
+
+
+<img width="312" height="200" alt="image" src="https://github.com/user-attachments/assets/940c272a-a068-432a-81c7-d9cefcd31b63" />
+
+
+
+
+<img width="1016" height="562" alt="image" src="https://github.com/user-attachments/assets/d8ba4297-310b-4ed3-b606-bddac9774f0b" />
+
